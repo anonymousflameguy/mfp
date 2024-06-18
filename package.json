@@ -2,10 +2,10 @@
   "name": "mfp",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "private": true,
   "scripts": {
-    "git:commit": "git add . | git commit -am 'Update'",
-    "build": "parcel build"
+    "build": "parcel build",
+    "git:commit": "git add . | git commit -am 'Update'"
   },
   "keywords": [],
   "author": "",
