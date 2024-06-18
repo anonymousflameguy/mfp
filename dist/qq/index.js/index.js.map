@@ -1,0 +1,1 @@
+{"mappings":"ACAA,OAAA,OAAA,CAAiB,CACb,GAAI,CACR","sources":["<anon>","src/qq/index.js"],"sourcesContent":["module.exports = {\n    hi: 2\n};\n\n\n//# sourceMappingURL=index.js.map\n","module.exports = {\n    hi: 2\n}"],"names":["module","exports","hi"],"version":3,"file":"index.js.map"}
